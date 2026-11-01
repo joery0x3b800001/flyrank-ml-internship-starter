@@ -7,6 +7,7 @@ Files:
 - claude_project_mockup.png
 - pressure_test_mockup.png
 - case_studies.md
+- prompt_ladder.md
 - toolkit_checklist.md
 - claude_project_instructions.txt
 - pressure_test_prompt.txt
