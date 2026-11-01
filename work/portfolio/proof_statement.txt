@@ -1,11 +1,8 @@
-Proof statement: I design decision-support interfaces for product leaders at growth-stage
-SaaS companies who need a clear answer to “what should we do next?” instead of another
-dashboard they have to interpret; I work with the founder or product lead who is juggling
-noisy data, competing priorities, and a team that needs the next move to be obvious.
-The action I want most is a 20-minute call: book a working session with me so we can
-review the decision you are trying to make and I can show how I turn confusion into
-a usable interface that speeds action.
+Proof statement: I turn search-performance data into a testable page-priority workflow
+for SEO editors. I am speaking to an SEO lead at a content-led SaaS company who owns the
+editorial refresh backlog. I want that person to book a 20-minute content-health review.
+The current work frames the decision and checks the starter data; it does not yet show
+that a model improves prioritization, predict future decline, or cause traffic gains.
 
-Why this needs to exist: A résumé and LinkedIn can show I can think, but they cannot prove
-I can turn ambiguity into a decision-making tool a real operator trusts; this is the gap a
-portfolio has to close.
+Why this needs to exist: A CV can list data skills, but it cannot show how I check what a
+metric means, connect it to an editor's decision, and keep the claim within the evidence.

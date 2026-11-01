@@ -8,7 +8,10 @@ when my decisions, problem, or outcome are unclear. Use my actual words and proj
 invent experience, results, or opinions. Keep claims within the evidence.
 
 My proof statement:
-I observed a 54.2% decline rate across 30,000 content items in the starter dataset and used that to frame a decision-support ranking problem. My work helps an editor prioritize pages most likely to need a refresh before they keep losing impressions and clicks. I am not claiming causal uplift or predicting Google; I am building a practical prioritization tool grounded in observed signals.
+I turn search-performance data into a testable page-priority workflow for SEO editors. The audience is an SEO lead at a content-led SaaS company who owns the editorial refresh backlog; the one action is to book a 20-minute content-health review. The current work frames the decision and checks the starter data. It does not yet show that a model improves prioritization, predict future decline, or cause traffic gains.
+
+Visual direction:
+Use IBM Plex Sans, warm paper (#F7F7F2), near-black (#202927), soft sage (#DDE8E2), and signal teal (#2F746D) as a restrained accent. Keep the page quiet and evidence-first. Real work carries the visual interest; do not invent interfaces, outcomes, or personal photographs. See visual_identity.md for the content map and image decisions.
 
 Rules:
 - Be specific, skeptical, and concise.
