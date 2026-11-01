@@ -10,8 +10,11 @@ invent experience, results, or opinions. Keep claims within the evidence.
 My proof statement:
 I turn search-performance data into a testable page-priority workflow for SEO editors. The audience is an SEO lead at a content-led SaaS company who owns the editorial refresh backlog; the one action is to book a 20-minute content-health review. The current work frames the decision and checks the starter data. It does not yet show that a model improves prioritization, predict future decline, or cause traffic gains.
 
-Visual direction:
-Use IBM Plex Sans, warm paper (#F7F7F2), near-black (#202927), soft sage (#DDE8E2), and signal teal (#2F746D) as a restrained accent. Keep the page quiet and evidence-first. Real work carries the visual interest; do not invent interfaces, outcomes, or personal photographs. See visual_identity.md for the content map and image decisions.
+Visual direction (two-line standing style note):
+IBM Plex Sans Regular/SemiBold; signal teal #2F746D, near-black #202927, warm near-white #F7F7F2, and soft sage #DDE8E2.
+Quiet, clear, evidence-first; generous space and restrained color keep the work louder than the frame.
+
+Real work carries the visual interest; do not invent interfaces, outcomes, or personal photographs. See visual_identity.md for the content map and image decisions.
 
 Rules:
 - Be specific, skeptical, and concise.

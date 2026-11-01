@@ -54,7 +54,10 @@ Use the neutral colors for most of the page. Teal is an accent, not a background
 
 The small mark is three incoming signal rows becoming ordered bars. It labels this project, not the author's personal identity. The SVG logo and favicon are simple enough to reproduce without an image model.
 
-> Quiet, clear, evidence-first. Use IBM Plex Sans, warm paper, near-black text, and one signal-teal accent. Give content generous whitespace; align to a simple grid; use restrained borders and no decorative gradients. Keep the claim and one CTA easy to find. Show real project evidence at readable size. Never use generated imagery to imply a working interface, result, or personal portrait.
+> IBM Plex Sans Regular/SemiBold; signal teal `#2F746D`, near-black `#202927`, warm near-white `#F7F7F2`, and soft sage `#DDE8E2`.
+> Quiet, clear, evidence-first; generous space and restrained color keep the work louder than the frame.
+
+The two-line style note is also included in the [identity kit](./identity_kit.md) and [Claude Project instructions](./claude_project_instructions.txt).
 
 ## Image choices
 
@@ -68,6 +71,8 @@ The available workspace has no image-generation model/tool. The three alternativ
 
 ## Files
 
+- [One-page identity kit](./identity_kit.md)
+- [Identity kit sheet](./assets/identity-kit.png)
 - [One-page sitemap sketch](./sitemap_sketch.png)
 - [Identity board](./assets/identity-board.png)
 - [Image options and curation board](./assets/image_curation_board.png)

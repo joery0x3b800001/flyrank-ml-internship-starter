@@ -7,7 +7,9 @@ Files:
 - claude_project_mockup.png
 - pressure_test_mockup.png
 - case_studies.md
+- identity_kit.md
 - visual_identity.md
+- assets/identity-kit.png
 - assets/identity-board.png
 - assets/image_curation_board.png
 - assets/decline-label-distribution.png
@@ -30,5 +32,6 @@ How to use:
 3. Use the pressure-test prompt to improve the structure before publishing.
 4. Read the case-study draft out loud and edit it into your own words before publishing.
 5. Use the visual identity and image curation in `visual_identity.md` as the portfolio's restrained visual system. Keep the chart's retrospective-label caveat with it.
+6. Use the two-line note in `identity_kit.md` as the standing visual instruction for the Claude Project.
 
 Note: actual browser account creation and screenshot capture require live access to Claude, ChatGPT, Gemini, and Perplexity in your browser.
