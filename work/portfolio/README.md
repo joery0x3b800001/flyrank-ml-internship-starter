@@ -8,6 +8,7 @@ Files:
 - pressure_test_mockup.png
 - case_studies.md
 - prompt_ladder.md
+- prompt_iteration_log.md
 - toolkit_checklist.md
 - claude_project_instructions.txt
 - pressure_test_prompt.txt
